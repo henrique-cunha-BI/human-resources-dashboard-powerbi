@@ -77,7 +77,7 @@ O layout foi organizado seguindo boas práticas de Data Visualization e Storytel
  - Desenvolvimento de storytelling analítico focado em negócio
 
 ## Dashboard Preview
-Imagem
+![Dashboard Overview](IMG/Dashboard.PNG)
 
 ## Dashboard Online
 Acesse a Dashboard interativa clicando aqui: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkzYTE0ZTYtNzY5My00NmZhLWIyYjQtNWZkNmRkODE2Nzk1IiwidCI6IjM2ODZiNmU4LWI3OTgtNDBkYy04NGI4LTkwOTNkN2FiZWIzYiJ9)
@@ -159,7 +159,7 @@ The layout follows data visualization best practices with a clear analytical nar
 - Applying analytical storytelling techniques
 
 ## Dashboard Preview
-Imagem
+![Dashboard Overview](IMG/Dashboard.PNG)
 
 ## Live Dashboard
 Access the interactive Power BI dashboard here: [Click to view dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDkzYTE0ZTYtNzY5My00NmZhLWIyYjQtNWZkNmRkODE2Nzk1IiwidCI6IjM2ODZiNmU4LWI3OTgtNDBkYy04NGI4LTkwOTNkN2FiZWIzYiJ9)
